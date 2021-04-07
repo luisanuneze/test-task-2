@@ -25,9 +25,9 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 **Install Bootstrap Vue like you did in `task-1`, so you have access to all bootstrap scss variables**.
 
-### 2. Turn these images (same section-different breakpoints) of a page section into code
+### 2. Turn these images (same section - different breakpoints) into code
 
-**Write HTML and SCSS the following section and follow the rules below**
+**Write HTML and SCSS for the following section and follow the rules below**
 
 2.1 The css must be fully responsive from 320px to 1920px screen width.
 2.2 You must not use more than one css breakpoint to achieve a fully responsive result. All proportions and sizes should automatically adjust themselves. Give yourself some time to think about it. Write your scss in such a dynamic way that it looks good on all sizes, without having to use more than 1 single breakpoint.
