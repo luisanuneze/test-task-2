@@ -43,16 +43,16 @@ You will find all required assets in `@/assets/`
 Here are the screenshots:
 
 320px:
-![320px](https://github.com/Webhikers-Feedback/test-task-2/blob/main/screenshots/task-2/320px)
+![320px](./screenshots/task-2/320px.png)
 
 1000px:
-![1000px](https://github.com/Webhikers-Feedback/test-task-2/blob/main/screenshots/task-2/1000px)
+![1000px](./screenshots/task-2/1000px.png)
 
 1280px:
-![1280px](https://github.com/Webhikers-Feedback/test-task-2/blob/main/screenshots/task-2/1280px)
+![1280px](./screenshots/task-2/1280px.png)
 
 1920px:
-![1920px](https://github.com/Webhikers-Feedback/test-task-2/blob/main/screenshots/task-2/1920px)
+![1920px](./screenshots/task-2/1920px.png)
 
 ### 3. Turn another image of a page section into code
 
@@ -74,4 +74,4 @@ You will find all required assets in `@/assets/`
 Here is the screenshot
 
 1280px:
-![1280px](https://github.com/Webhikers-Feedback/test-task-2/blob/main/screenshots/task-2/1280px)
+![1280px](./screenshots/task-2/1280px.png)
