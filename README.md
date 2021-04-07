@@ -25,7 +25,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 **Install Bootstrap Vue like you did in `task-1`, so you have access to all bootstrap scss variables**.
 
-### 2. Turn this images (same section-different breakpoints) of a page section into code
+### 2. Turn these images (same section-different breakpoints) of a page section into code
 
 **Write HTML and SCSS the following section and follow the rules below**
 
