@@ -85,4 +85,4 @@ Here is the screenshot
 
 1280px:
 
-![1280px](./screenshots/task-2/1280px.png)
+![1280px](./screenshots/task-1/1280px.png)
