@@ -36,8 +36,11 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 2.3 Use the internal bootstrap scss breakpoint mixin `@include media-breakpoint-up(md){}` to write all desktop related code inside this mixin. For everything that's smaller than `md` screen width, you can just hide the image and only display the right column.
 
 **Hint 1.** You can use Lorem Ipsum Text, so you don't have to retype everything.
+
 **Hint 2.** You can completely ignore the yello dot-background behind the image
+
 **Hint 3.** You can entirely ignore the font-family.
+
 **Hint 4.** The **only** reason to use the one and only allowed css breakpoint is to hide the image for the mobile version. Nothing more.
 
 You will find all required assets in `@/assets/`
@@ -73,6 +76,7 @@ Here are the screenshots:
 3.4 Now you end up with a dynamic image height, a dynamic image width (both in relation to the browser window size) which is put inside an `<img/>` tag and you need to make sure that it's never distorted.
 
 **Hint 1.** You can use Lorem Ipsum Text, so you don't have to retype everything.
+
 **Hint 2.** You can entirely skip the contact icons.
 
 You will find all required assets in `@/assets/`
