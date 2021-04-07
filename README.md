@@ -30,7 +30,9 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 **Write HTML and SCSS for the following section and follow the rules below**
 
 2.1 The css must be fully responsive from 320px to 1920px screen width.
+
 2.2 You must not use more than one css breakpoint to achieve a fully responsive result. All proportions and sizes should automatically adjust themselves. Give yourself some time to think about it. Write your scss in such a dynamic way that it looks good on all sizes, without having to use more than 1 single breakpoint.
+
 2.3 Use the internal bootstrap scss breakpoint mixin `@include media-breakpoint-up(md){}` to write all desktop related code inside this mixin. For everything that's smaller than `md` screen width, you can just hide the image and only display the right column.
 
 **Hint 1.** You can use Lorem Ipsum Text, so you don't have to retype everything.
