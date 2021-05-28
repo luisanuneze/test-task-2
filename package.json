@@ -9,9 +9,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
     "bootstrap": "^4.5.0",
-    "bootstrap-vue": "^2.15.0",
-    "nuxt": "^2.14.0"
-  },
-  "devDependencies": {}
+    "bootstrap-vue": "^2.21.2",
+    "fibers": "^5.0.0",
+    "nuxt": "^2.14.0",
+    "sass": "^1.34.0",
+    "sass-loader": "10"
+  }
 }
