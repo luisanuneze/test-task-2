@@ -1,17 +1,15 @@
 <template>
   <div class="container">
     <div>
-      <AppMain />
-      <!-- <Videoproduktion /> -->
+      <Videoproduktion />
     </div>
   </div>
 </template>
 
 <script>
-// import Videoproduktion from "../components/Videoproduktion.vue";
-import AppMain from "../components/AppMain.vue";
+import Videoproduktion from "../components/Videoproduktion.vue";
 export default {
-  components: { AppMain }
+  components: { Videoproduktion }
 };
 </script>
 
